@@ -1,6 +1,2 @@
-making the changes of the files
-x=x+z
+show me the conflict
 
-Morning
-
-Yes I did it
